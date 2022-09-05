@@ -14,6 +14,7 @@
 - Travel :national_park:
 - Data Analytics :bar_chart:
 - Reading 📖
+<br>
 <hr>
 
 #### :man_technologist: **Tech Stack**
@@ -35,5 +36,5 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-%23d9ead3.svg?style=for-the-badge&logo=apachejmeter&logoColor=blue&color=maroon)<br>
+![JMeter](https://img.shields.io/badge/JMeter-%23d9ead3.svg?style=for-the-badge&logo=apachejmeter&logoColor=blue&color=maroon)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
