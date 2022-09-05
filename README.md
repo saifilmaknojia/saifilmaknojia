@@ -2,22 +2,23 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaifilmaknojia) <br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:work.maksaifilsherali@gmail.com) 
 
-<img style="vertical-align:middle" src="./java_giphy.gif" align="right" width="420" height="250">
-
 🎯 **Portfolio website:** [https://saifilmaknojia.github.io](https://saifilmaknojia.github.io/)
+<hr>
+<img src="./java_giphy.gif"  align="right" width="420" height="200">
 
 #### :pushpin: Things I enjoy
+
 - Coding in Java :coffee:
 - Backend Development :desktop_computer:
 - Personal Finance and Investing :money_with_wings:
 - Travel :national_park:
 - Data Analytics :bar_chart:
+- Reading 📖
+<hr>
 
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=saifilmaknojia&show_icons=true&theme=blue-green&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
-    
 #### :man_technologist: **Tech Stack**
+
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"> <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=saifilmaknojia&show_icons=true&theme=blue-green&border_color=61dafb&hide_border=true&include_all_commits=true" /> </a>
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logoColor=black&logo=coffeescript)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -36,4 +37,3 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-%23d9ead3.svg?style=for-the-badge&logo=apachejmeter&logoColor=blue&color=maroon)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
